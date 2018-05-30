@@ -10,6 +10,8 @@ gem 'rails', '~> 5.0.2'
 
 # Environment
 gem 'pg'
+gem 'tzinfo-data'
+gem 'wdm'
 
 # # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
